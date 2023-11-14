@@ -5,7 +5,7 @@
 ## 📫 Como chegar até mim:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kelvin-9a425b204/)<br>
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatonicolaskelvinsilva@gmail.com)
-## Tecnologias que  uso. 
+## 🖥 Tecnologias que  uso: 
 
 <div style="display: inline_block">
    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
