@@ -6,7 +6,7 @@
 
 ## 📫 Como chegar até mim:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nicolas-kelvin-9a425b204/](https://www.linkedin.com/in/nicolas-kelvin98?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrOOsnVZhRA2A9QBKbcgCSw%3D%3D))<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kelvin98/)<br>
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatonicolaskelvinsilva@gmail.com)
 
 ## 🖥 Tecnologias que uso:
